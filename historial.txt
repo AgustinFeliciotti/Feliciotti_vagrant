@@ -1,0 +1,63 @@
+    1  ls
+    2  whoami
+    3  pwd
+    4  man
+    5  man man
+    6  ls -l
+    7  ls -la
+    8  man man
+    9  echo "hola"
+   10  echo $hHOME
+   11  echo $HOME
+   12  comands
+   13  help
+   14  cd repogit
+   15  clear
+   16  ls -la
+   17  cd ..
+   18  ls
+   19  cat README
+   20  git clone https://github.com/AgustinFeliciotti/Feliciotti_vagrant.git
+   21  ls
+   22  cd carpeta_compartida/
+   23  cd ..
+   24  cd Feliciotti_vagrant/
+   25  ls
+   26  history
+   27  history > historial.txt
+   28  ls
+   29  cat
+   30  cat historial.txt
+   31  git status
+   32  git add .
+   33  git status
+   34  git commit -m "Mi primer commit"
+   35  git config --global user.email "feliciottiagustin04@gmail.com"
+   36  git config --global user.name "Agustín Feliciotti"
+   37  git commit -m "Mi primer commit"
+   38  git push
+   39  git status
+   40  git push
+   41  git push 
+   42  git push
+   43  exit
+   44  vagrant status
+   45  clear
+   46  ls
+   47  ls -la
+   48  ssh-keygen -t ed25519
+   49  cd .ssh
+   50  ls
+   51  cat id_ed25519.pub
+   52  ls
+   53  cd ..
+   54  cd repogit
+   55  ls
+   56  clear
+   57  ls
+   58  git clone git@github.com:AgustinFeliciotti/Feliciotti_vagrant.git
+   59  ls
+   60  cd Feliciotti_vagrant
+   61  ls
+   62  history
+   63  history > historial.txt
